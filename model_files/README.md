@@ -22,8 +22,8 @@ FIG3A_classes_distance.svg         -- Figure 3a, vegetation classes and distance
 FIG3B_distance_wetness_with_histograms_082025_kde.png -- Figure 3b, elevation and velocity, plotted over distance from bog-fen boundary, highlighted by wetness index.
 
 Fen_1024_v12b_012026.npz -- last time step state of fen simulation (main variables)
-
 BogFenLandscape_1024_v12b_012026.npz -- last time step state of bog-fen complex simulation (main variables)
+Large model output files (.npz files) are archived on Zenodo due to size constraints and are not stored in this GitHub repository.
 
 Examples of arrays used for the sensitivity analysis: 
 Hin_arr = np.array([0.000005, 0.00001, 0.000015, 0.00002, 0.000025, 0.00003, 0.000035, 0.00004, 0.000045, 0.00005])
