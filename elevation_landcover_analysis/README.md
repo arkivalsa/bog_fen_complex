@@ -3,7 +3,8 @@ Data files needed for the vegetation cover analysis, are the ESRI landcover file
 WSL: 42V_20240101-20241231, 43V_20240101-20241231, 44V_20240101-20241231
 Arkhangelsk: 38W_20240101-20241231
 HBL: 16U_20240101-20241231, 17U_20240101-20241231, 18U_20240101-20241231
-   (Bog-fen masks after analysis are in folder bog_fen_masks)
+   (Bog-fen masks after analysis are in folder bog_fen_masks --> large model output files are archived on Zenodo due to size constraints
+and are not stored in this GitHub repository.)
 
    Files for the remote sensing analysis of elevation changes in West Siberia Lowlands, Arkhangelsk and Hudson Bay Lowlands:
 Data files needed for the elevation analysis, are the MERIT DEMS, openly accessible in this website: https://hydro.iis.u-tokyo.ac.jp/~yamadai/MERIT_DEM/. The tiles used for each of the three peat complexes are the following: 
