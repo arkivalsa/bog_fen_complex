@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Draggable Bounding Box</name>
+    <Placemark>
+      <name>Bounding Box</name>
+      <Style>
+        <LineStyle>
+          <color>ff0000ff</color>
+          <width>2</width>
+        </LineStyle>
+        <PolyStyle>
+          <color>4dff0000</color>
+        </PolyStyle>
+      </Style>
+      <Polygon>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              44.01744892185655,65.15757354778304,0
+              44.915764205976075,65.15757354778304,0
+              44.915764205976075,65.53230270009142,0
+              44.01744892185655,65.53230270009142,0
+              44.01744892185655,65.15757354778304,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
